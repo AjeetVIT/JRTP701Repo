@@ -8,6 +8,8 @@ public class test1 {
     }
 
     public void m5() {
+
         system.out.println("m5() method completed");
+        system.out.println("end of m5() method sir");
     }
 }
